@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_shape.9.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\button_shape.9.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chemistry.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\chemistry.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_physics.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\physics.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graduates.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\graduates.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_telephonecall.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\telephonecall.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ellipse9.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ellipse9.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_dot.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\selected_dot.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ultimate.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ultimate.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_introscreen2.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\introscreen2.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sample_paper.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_sample_paper.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_dot.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\default_dot.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maths.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\maths.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signuptop.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\signuptop.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_termscondition.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ic_termscondition.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skype.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\skype.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coding.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\coding.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_mynotes_recycle.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\mynotes_recycle.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_graph.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_graph.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_more.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\gradient_more.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_more.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_logo.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\home_logo.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_button.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_background_color.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\text_background_color.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_x_y_z.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_x_y_z.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_introscreen1.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\introscreen1.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_wakeup.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\corner_wakeup.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ultimate_logo.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ultimate_logo.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whatsapp.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\whatsapp.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notes.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\font_artifika.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\font\\artifika.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_computer.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\computer.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_privacy.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ic_privacy.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_introscreen3.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\introscreen3.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_recycle.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\home_recycle.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_notes.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_my_notes.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro_screen.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_intro_screen.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first_screen.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_first_screen.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_background_black.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\text_background_black.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_background.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\home_background.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashbackground.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\splashbackground.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second_screen.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_second_screen.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_overlay.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_background.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\shape_background.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_topbar.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\home_topbar.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rightbtn.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\rightbtn.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_graph_recycler.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\graph_recycler.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\color_bottom_nav_color.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\color\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_reset.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_right.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_background_filled.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\text_background_filled.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chart.png.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\chart.png"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_disabled.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\button_disabled.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_third_screen.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\layout\\fragment_third_screen.xml"
+    },
+    {
+        "merged": "E:\\Ultimate1\\Ultimate\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "E:\\Ultimate1\\Ultimate\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    }
+]

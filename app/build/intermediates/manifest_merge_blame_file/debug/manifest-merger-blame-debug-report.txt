@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ultimate"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:6:5-54:19
+12        android:allowBackup="true"
+12-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\9b4bbe17406ebdd5cecd894aeda4ed80\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@drawable/ultimate_logo"
+16-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:8:9-47
+17        android:label="@string/app_name"
+17-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:10:9-54
+19        android:supportsRtl="true"
+19-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.Ultimate" >
+21-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:12:9-46
+22        <activity
+22-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:13:9-15:40
+23            android:name="com.ultimate.ui.Dashboard.XYZ.MyNotes"
+23-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:14:13-53
+24            android:exported="false" />
+24-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:15:13-37
+25        <activity
+25-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:16:9-18:40
+26            android:name="com.ultimate.ui.Dashboard.XYZ.SamplePaper"
+26-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:17:13-57
+27            android:exported="false" />
+27-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:18:13-37
+28        <activity
+28-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:19:9-21:40
+29            android:name="com.ultimate.ui.Dashboard.XYZ.Notes"
+29-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:20:13-51
+30            android:exported="false" />
+30-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:21:13-37
+31        <activity
+31-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:22:9-24:40
+32            android:name="com.ultimate.ui.Reset.Reset"
+32-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:23:13-43
+33            android:exported="false" />
+33-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:24:13-37
+34        <activity
+34-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:25:9-27:40
+35            android:name="com.ultimate.ui.Signup.Signup"
+35-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:26:13-45
+36            android:exported="false" />
+36-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:27:13-37
+37        <activity
+37-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:28:9-30:40
+38            android:name="com.ultimate.ui.ForgotPassword.ForgotPassword"
+38-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:29:13-61
+39            android:exported="false" />
+39-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:30:13-37
+40        <activity
+40-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:31:9-33:40
+41            android:name="com.ultimate.ui.Login.Login"
+41-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:32:13-43
+42            android:exported="false" />
+42-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:33:13-37
+43        <activity
+43-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:34:9-36:40
+44            android:name="com.ultimate.ui.Intro.IntroScreen"
+44-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:35:13-49
+45            android:exported="false" />
+45-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:36:13-37
+46        <activity
+46-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:37:9-39:40
+47            android:name="com.ultimate.ui.Dashboard.Dashboard"
+47-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:38:13-51
+48            android:exported="false" />
+48-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:39:13-37
+49        <activity
+49-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:40:9-49:20
+50            android:name="com.ultimate.ui.Splash"
+50-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:41:13-38
+51            android:exported="true" >
+51-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:42:13-36
+52            <intent-filter>
+52-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:44:13-48:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:45:17-69
+53-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:45:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:47:17-77
+55-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:47:27-74
+56            </intent-filter>
+57        </activity>
+58
+59        <meta-data
+59-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:51:9-53:57
+60            android:name="preloaded_fonts"
+60-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:52:13-43
+61            android:resource="@array/preloaded_fonts" />
+61-->E:\Ultimate1\Ultimate\app\src\main\AndroidManifest.xml:53:13-54
+62
+63        <provider
+63-->[com.squareup.picasso:picasso:2.71828] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\660342832386aecd1d0190a7fa7cd5d1\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+64            android:name="com.squareup.picasso.PicassoProvider"
+64-->[com.squareup.picasso:picasso:2.71828] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\660342832386aecd1d0190a7fa7cd5d1\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+65            android:authorities="com.ultimate.com.squareup.picasso"
+65-->[com.squareup.picasso:picasso:2.71828] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\660342832386aecd1d0190a7fa7cd5d1\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+66            android:exported="false" />
+66-->[com.squareup.picasso:picasso:2.71828] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\660342832386aecd1d0190a7fa7cd5d1\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+67        <provider
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+69            android:authorities="com.ultimate.androidx-startup"
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+70            android:exported="false" >
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+71            <meta-data
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+73                android:value="androidx.startup" />
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\51c794e8d58f2add1b6e1035ee7c058d\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+74            <meta-data
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\e539e26c730ec8f29e3c4a27f918073b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\e539e26c730ec8f29e3c4a27f918073b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+76                android:value="androidx.startup" />
+76-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\aman\.gradle\caches\transforms-2\files-2.1\e539e26c730ec8f29e3c4a27f918073b\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+77        </provider>
+78    </application>
+79
+80</manifest>

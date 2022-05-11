@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ultimate_Home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        app:showAsAction="always"
+        >
+    </item>
+    <item
+        android:id="@+id/ultimate_xyz"
+        android:title="XYZ"
+        android:icon="@drawable/whatsapp"
+        app:showAsAction="always"
+       >
+    </item>
+    <item
+        android:id="@+id/ultimate_Graph"
+        android:title="Graph"
+       android:icon="@drawable/chart"
+        app:showAsAction="always"
+        >
+    </item>
+
+
+    <item
+        android:id="@+id/ultimate_more"
+        android:title="More"
+        android:icon="@drawable/more"
+        app:showAsAction="always">
+
+    </item>
+
+
+
+</menu>

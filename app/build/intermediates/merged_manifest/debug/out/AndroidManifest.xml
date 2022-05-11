@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ultimate"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="32" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/ultimate_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Ultimate" >
+        <activity
+            android:name="com.ultimate.ui.Dashboard.XYZ.MyNotes"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Dashboard.XYZ.SamplePaper"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Dashboard.XYZ.Notes"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Reset.Reset"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Signup.Signup"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.ForgotPassword.ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Login.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Intro.IntroScreen"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Dashboard.Dashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.ultimate.ui.Splash"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.ultimate.com.squareup.picasso"
+            android:exported="false" />
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.ultimate.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

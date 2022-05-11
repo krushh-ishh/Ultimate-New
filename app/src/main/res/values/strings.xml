@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ultimate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recycle">This is the example text.</string>
+    <string name="next">NEXT</string>
+
+    <string-array name="Field">
+
+        <item>High School</item>
+        <item>Intermediate</item>
+        <item>Graduation</item>
+        <item>Masters</item>
+    </string-array>
+
+    <string-array name="Course">
+        <item>B.tech(CS)</item>
+        <item>B.tech(mec.)</item>
+        <item>B.tech(Civil)</item>
+        <item>BCA</item>
+        <item>B.com</item>
+        <item>B.sc</item>
+        <item>M.tech</item>
+        <item>MCA</item>
+        <item>M.com</item>
+        <item>MBA</item>
+        <item>M.sc</item>
+    </string-array>
+
+    <string-array name="Subject">
+        <item>English</item>
+        <item>Maths</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+    </string-array>
+</resources>
